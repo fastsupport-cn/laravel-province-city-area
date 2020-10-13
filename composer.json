@@ -3,8 +3,8 @@
   "description": "China Province City Area From JD.COM",
   "type": "library",
   "require": {
-    "php": "^7.0",
-    "guzzlehttp/guzzle": "~6.0"
+    "php": ">=7.0",
+    "guzzlehttp/guzzle": ">=6.0"
   },
   "extra": {
     "laravel": {
